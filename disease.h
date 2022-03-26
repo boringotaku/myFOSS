@@ -1,3 +1,5 @@
+// day 1
+
 class disease : public patient {
   std::string diseaseName;
   std::string doctor;
